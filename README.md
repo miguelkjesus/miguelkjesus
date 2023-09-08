@@ -1,1 +1,4 @@
-Hello I'm Miguel Jesus, student at the University of Sheffield studying BSc Computer Science.
+Hello I'm Miguel Jesus
+|> 18
+|> Student at University of Sheffield
+|> BSc Computer Science
