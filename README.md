@@ -1,1 +1,1 @@
-Hello, I'm Miguel Jesus !
+Hello, I'm Miguel Jesus ! Software developer at ButternutBox.
